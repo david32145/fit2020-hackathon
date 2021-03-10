@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035453146354",
+    "project_id": "ducampo-27ee2",
+    "storage_bucket": "ducampo-27ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035453146354:android:6d28689c00a458d5441c6b",
+        "android_client_info": {
+          "package_name": "com.ducampo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035453146354-s84r6q9ug38ad8u09srhjeqjshn7omaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMA8DG2oU-mmFR0F9AYIff42lTvJs3TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035453146354-s84r6q9ug38ad8u09srhjeqjshn7omaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
